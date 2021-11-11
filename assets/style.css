@@ -1,37 +1,24 @@
-* {
-    background-color: darkgrey;
+*{
+    font-family: 'Share Tech Mono', monospace;
 }
 header {
+    background-color: blanchedalmond;
+    justify-content: center;
+    text-align: center;
+    flex-direction: row;
+}
 
+h1 {
+    align-items: flex-end;
 }
 
 .mainCards {
-
-}
-
-.aboutMe {
-
+    justify-content: center;
+    text-align: center;
 }
 
 .myWork {
-
+    background-image: linear-gradient(red, pink);
 }
 
-.row {
-    
-}
-.column {
 
-}
-
-.card {
-
-}
-
-.pImage {
-    
-}
-
-.contact {
-
-}
